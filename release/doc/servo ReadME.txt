@@ -1,6 +1,3 @@
-Servo
-=====
-
 Allows control of multiple characters on the same computer, across a 
 LAN, and possibly across the internet.
 
