@@ -281,7 +281,7 @@ void __stdcall Servo::DxRender()
 __declspec( dllexport ) void __stdcall CreateExtensionData(ExtensionInterfaceData* Data)
 {
 	ModuleData = Data;
-	ModuleData->ExtensionVersion		=		1.00;
+	ModuleData->ExtensionVersion		=		1.01;
 	ModuleData->InterfaceVersion		=		INTERFACEVERSION;
 	ModuleData->RequiresValadation		=		false;
 	ModuleData->AutoloadConfiguration	=		true;
